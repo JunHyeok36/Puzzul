@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GooglePlayGameService_ko
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: a904ed2bd93129d4a92de7566d2ffb0d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 487725658112
+    m_Localized: "<sprite=0> \uAD6C\uAE00 \uD50C\uB808\uC774 \uB85C\uADF8\uC778"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 756953837568
+    m_Localized: "<sprite=1> \uB85C\uADF8\uC544\uC6C3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 853603184640
+    m_Localized: "<sprite=4> \uD074\uB77C\uC6B0\uB4DC \uC800\uC7A5\uD558\uAE30"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003650215936
+    m_Localized: "<sprite=5> \uD074\uB77C\uC6B0\uB4DC \uBD88\uB7EC\uC624\uAE30"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1202091126784
+    m_Localized: "\uB85C\uADF8\uC778\uC911..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1600294154240
+    m_Localized: "\uB85C\uADF8\uC544\uC6C3\uC911..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1721920581632
+    m_Localized: "\uB85C\uADF8\uC778\uC5D0 <color=#055000>\uC131\uACF5</color>\uD588\uC2B5\uB2C8\uB2E4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918109151232
+    m_Localized: "\uB85C\uADF8\uC778\uC5D0 <color=#610000>\uC2E4\uD328</color>\uD588\uC2B5\uB2C8\uB2E4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2006910955520
+    m_Localized: "\uD074\uB77C\uC6B0\uB4DC\uC5D0 \uC800\uC7A5\uB41C \uB370\uC774\uD130\uAC00
+      \uC0AC\uB77C\uC9D1\uB2C8\uB2E4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2695909273600
+    m_Localized: "\uB370\uC774\uD130\uB97C \uC800\uC7A5\uD558\uB294 \uC911..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973421203456
+    m_Localized: "\uB370\uC774\uD130\uB97C <color=#055000>\uC131\uACF5\uC801</color>\uC73C\uB85C
+      \uC800\uC7A5\uD588\uC2B5\uB2C8\uB2E4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3231505117184
+    m_Localized: "\uB370\uC774\uD130\uB97C \uC800\uC7A5\uD558\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3666433470464
+    m_Localized: Stored data will be deleted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4532347531264
+    m_Localized: "\uB370\uC774\uD130\uB97C \uBD88\uB7EC\uC624\uB294 \uC911..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4838946959360
+    m_Localized: "\uB370\uC774\uD130\uB97C <color=#055000>\uC131\uACF5\uC801</color>\uC73C\uB85C
+      \uBD88\uB7EC\uC654\uC2B5\uB2C8\uB2E4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5231252795392
+    m_Localized: "\uB370\uC774\uD130\uB97C \uBD88\uB7EC\uC624\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15704769622016
+    m_Localized: "<sprite=3> \uB9AC\uB354\uBCF4\uB4DC\uC5D0 \uAE30\uB85D\uD558\uAE30"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15998127632384
+    m_Localized: "\uB9AC\uB354\uBCF4\uB4DC\uC5D0 \uC810\uC218\uB97C \uAE30\uB85D\uD588\uC2B5\uB2C8\uB2E4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1472474415296512
+    m_Localized: "<size=150%><sprite=0></size>\n\uB9AC\uB354\uBCF4\uB4DC\uC5D0 \uC810\uC218\uB97C
+      \uAE30\uB85D\uD588\uC2B5\uB2C8\uB2E4!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

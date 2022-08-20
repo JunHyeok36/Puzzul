@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: RuneSetting_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9bb40f25e00b23e40a756f7e5bd10f50, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 579811602432
+    m_Localized: All Rune Available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2527327612928
+    m_Localized: Locked Rune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2624274755584
+    m_Localized: 'If you want
+
+      to use this,
+
+
+
+
+
+      use coin to get <color=#337609><size=90>permanently</size></color>
+
+
+
+
+
+      watch
+      AD to get temporarily'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2829107785728
+    m_Localized: 'If you want
+
+      to use this,
+
+
+
+
+
+      use coin to get
+
+
+
+
+
+      watch
+      AD to get'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2896896126976
+    m_Localized: None
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973408620544
+    m_Localized: 'Play without
+
+      a <size=100>Rune</size> selection'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3118074359808
+    m_Localized: TimeBreaker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3219215806464
+    m_Localized: '<color=#875918><size=75>Combo hold time</size></color>
+
+      increases
+      by <size=75>2</size> seconds,
+
+      and if combo hold time exceeds\nthe maximum,it
+      <color=#C61F29><size=75>explodes</size></color> in any area.
+
+      <size=50>(Cooltime
+      10s)</size>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3325461721088
+    m_Localized: Opportunist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658585927680
+    m_Localized: '<size=50><color=#875918><size=60>The combo multiple</size></color>
+
+      obtained
+      when <color=#C61F29><size=60>destroying</size></color>
+
+      <size=60>more
+      than four blocks</size> increases by <size=60>four times</size>, and destroying
+      <size=60>more than six blocks</size> <color=#C61F29><size=60>destroys</size></color>
+      all blocks.
+
+      <size=50>(Cooltime 15s)</size></size>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3740769120256
+    m_Localized: Random SubRune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4059271983104
+    m_Localized: Additional Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4137890017280
+    m_Localized: Block Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4242454016000
+    m_Localized: Additional Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4311450316800
+    m_Localized: Gameover Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4378898919424
+    m_Localized: Additional Combo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4468501835776
+    m_Localized: Combo Multiple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4666225520640
+    m_Localized: Purchase this Rune successfully
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4833540501504
+    m_Localized: Get all Rune temporary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5008979849216
+    m_Localized: You can not use this Rune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20643206066176
+    m_Localized: You don't have enough coin
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

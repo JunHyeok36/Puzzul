@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 170389e2e4bdc36499efd799ffe12a8d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 242316931072
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 589039071232
+    m_Localized: Skin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657855016960
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695133990912
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746807816192
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 881868599296
+    m_Localized: HighScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 954983706624
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270904643584
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12254736478208
+    m_Localized: Rune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17155793285120
+    m_Localized: Click to Purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17547847462912
+    m_Localized: Watch AD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17708451557376
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17755574562816
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17799027552256
+    m_Localized: MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17887787413504
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17951746355200
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17991516745728
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18040812400640
+    m_Localized: <size=60>Pause</size> can use three times per game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29155822858240
+    m_Localized: Error occurred
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34679985467392
+    m_Localized: New HighScore!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1495620405096448
+    m_Localized: Developer
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1507dd9b81d19814aa9ce77d6768f1f7
+  m_SerializeEntries:
+  - m_GUID: 170389e2e4bdc36499efd799ffe12a8d
+    m_Address: Assets/Localization/UI/UI Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: a904ed2bd93129d4a92de7566d2ffb0d
+    m_Address: Assets/Localization/GPGS/GooglePlayGameService Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: bb0cfd6ca7e5e76419705f8e1d236c98
+    m_Address: Assets/Localization/SkinSetting/SkinSetting Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 9bb40f25e00b23e40a756f7e5bd10f50
+    m_Address: Assets/Localization/RuneSetting/RuneSetting Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: f9349010c7ca1af4cb97af651a1eb6f1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 75b3e8c0c1789ed488b3862a4004acd8, type: 2}
+    - {fileID: 11400000, guid: 60f6415afe8eb8d4a909ebe5592d1199, type: 2}

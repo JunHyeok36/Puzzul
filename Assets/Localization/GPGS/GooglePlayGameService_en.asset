@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GooglePlayGameService_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a904ed2bd93129d4a92de7566d2ffb0d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 487725658112
+    m_Localized: <sprite=0> Google Play Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 756953837568
+    m_Localized: <sprite=1> Logout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 853603184640
+    m_Localized: <sprite=4> Cloud Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003650215936
+    m_Localized: <sprite=5> Cloud Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1202091126784
+    m_Localized: Login...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1600294154240
+    m_Localized: Logout...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1721920581632
+    m_Localized: Login <color=#055000>successfully</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918109151232
+    m_Localized: Login <color=#610000>failed</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2006910955520
+    m_Localized: Data stored in Google Cloud will be deleted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2695909273600
+    m_Localized: Saving data...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973421203456
+    m_Localized: Data has been <color=#055000>successfully</color> saved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3231505117184
+    m_Localized: Failed to save data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3666433470464
+    m_Localized: "\uD604\uC7AC \uC800\uC7A5\uB41C \uB370\uC774\uD130\uAC00 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4532347531264
+    m_Localized: Loading data...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4838946959360
+    m_Localized: Data has been <color=#055000>successfully</color> loaded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5231252795392
+    m_Localized: Failed to load data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15704769622016
+    m_Localized: <sprite=3> Recode on Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15998127632384
+    m_Localized: Record score on the leaderboard successfully
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1472474415296512
+    m_Localized: '<size=150%><sprite=0></size>
+
+      Recode score
+
+      on the
+      leaderboard!'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
